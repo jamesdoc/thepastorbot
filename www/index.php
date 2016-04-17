@@ -1,2 +1,2 @@
 <?php
-  phpinfo();
+  echo 'Nothing to see here...'
